@@ -1,2 +1,2 @@
 # SaludVital
-Repositorio para la práctica DevOps de Salud Vital
+Repositorio prinicpal del versiones para la práctica DevOps de Salud Vital
